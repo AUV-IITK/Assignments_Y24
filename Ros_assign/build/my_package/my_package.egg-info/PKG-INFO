@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: my-package
 Version: 0.0.0
-Summary: TODO: Package description
+Summary: Example publisher and subscriber package with parameterized launch
 Home-page: UNKNOWN
-Maintainer: itspriiyanshu
-Maintainer-email: itspriiyanshu@todo.todo
+Maintainer: your_name
+Maintainer-email: your_email@example.com
 License: TODO: License declaration
 Platform: UNKNOWN
 

@@ -1,9 +1,9 @@
 #ROS2 Assignment
 
-Used Ros2 in Ubuntu Terminal to create 3 nodes
+Used Ros2 in Ubuntu Terminal to create 2 nodes and run them simultaneously using a launch file
 
--Publisher Node: Published a "Hello World!" message with a count to 'mtopic'
--Subscriber Node: Subscribes to 'mtopic'
--Runner Node: Runs the two nodes simultaneously
+- Publisher Node: Publishes a custom message to 'message_topic'
+- Subscriber Node: Subscribes to 'message_topic'
+- Launch File: Runs the two node simultaneously and takes custom message input
 
-Attached a .pdf with working snapshots.
+![Working](snapshot.png)
